@@ -1,0 +1,37 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "arterytek-kicad-library",
+    "description": "A collection of symbols/footprints for PCB design",
+    "description_full": "This library is provided Artery MCU for PCB design projects.",
+    "identifier": "com.github.qmk-arterytek.arterytek-kicad-library",
+    "type": "library",
+    "author": {
+        "name": "HorrorTroll",
+        "contact": {
+            "discord": "horrortroll"
+            "facebook": "https://www.facebook.com/PhamChonChe.Duc"
+            "email": "sonicvipduc@gmail.com"
+        }
+    },
+    "maintainer": {
+        "name": "HorrorTroll",
+        "contact": {
+            "discord": "horrortroll"
+            "facebook": "https://www.facebook.com/PhamChonChe.Duc"
+            "email": "sonicvipduc@gmail.com"
+        }
+    },
+    "license": "CERN-OHL",
+    "resources": {
+        "homepage": "https://github.com/qmk-arterytek/arterytek-kicad-library"
+    },
+    "versions": [{
+        "version": "VERSION_HERE",
+        "status": "testing",
+        "kicad_version": "8.0",
+        "download_sha256": "SHA256_HERE",
+        "download_size": DOWNLOAD_SIZE_HERE,
+        "download_url": "DOWNLOAD_URL_HERE",
+        "install_size": INSTALL_SIZE_HERE
+    }]
+}
