@@ -16,7 +16,7 @@ Open the KiCad "Plugin and Content Manager" (referred to as "PCM" from now on) a
 https://raw.githubusercontent.com/qmk-arterytek/arterytek-kicad-repository/main/repository.json
 ```
 
-From this point on you will have "HorrorTroll KiCad repository" in your drop-down selection, and it will allow you to install (and update) arterytek-kicad-library through PCM - easy and hassle-free.
+From this point on you will have "qmk-arterytek KiCad repository" in your drop-down selection, and it will allow you to install (and update) arterytek-kicad-library through PCM - easy and hassle-free.
 
 ## Symbol libs
 ### MCU_Artery_AT32A40
