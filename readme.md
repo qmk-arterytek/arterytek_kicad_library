@@ -35,32 +35,36 @@ From this point on you will have "HorrorTroll KiCad repository" in your drop-dow
 
 ### MCU_Artery_AT32F42
 * AT32F421 - Artery AT32F421 MCU series
-* AT32F4212C8T7 - Artery AT32F4212C8T7 MCU
 * AT32F423 - Artery AT32F423 MCU series
 * AT32F425 - Artery AT32F425 MCU series
+* AT32F4212C8T7 - Artery AT32F4212 MCU
 
 ### MCU_Artery_AT32F43
 * AT32F435 - Artery AT32F435 MCU series
 * AT32F437 - Artery AT32F437 MCU series
 
+### MCU_Artery_AT32L02
+* AT32L021 - Artery AT32L021 MCU series
+
 ### MCU_Artery_AT32WB41
-* AT32WB415CCU7-7 - Artery AT32WB415CCU7-7 MCU
+* AT32WB415CCU7-7 - Artery AT32WB415 MCU
 
 ## Footprint libs
 ### Artery_MCU
-* LQFP-32_7x7mm - LQFP-32 (7x7mm) packages (e.g AT32F425KxT7)
-* LQFP-48_7x7mm - LQFP-48 (7x7mm) packages (e.g AT32F405CxT7)
-* LQFP-64_7x7mm - LQFP-64 (7x7mm) packages (e.g AT32F402RxT7-7)
-* LQFP-64_10x10mm - LQFP-64 (10x10mm) packages (e.g AT32F407RxT7)
-* LQFP-100_14x14mm - LQFP-100 (14x14mm) packages (e.g AT32F403AVxT7)
-* LQFP-144_20x20mm - LQFP-144 (20x20mm) packages (e.g AT32F437ZxT7)
-* QFN-28_4x4mm_ThermalVias - QFN-28 (4x4mm) packages (e.g AT32F421GxU7)
-* QFN-32_4x4mm_ThermalVias - QFN-32 (4x4mm) packages (e.g AT32F415KxU7-4)
-* QFN-32_5x5mm_ThermalVias - QFN-32 (5x5mm) packages (e.g AT32F421KxU7)
-* QFN-36_6x6mm_ThermalVias - QFN-36 (6x6mm) packages (e.g AT32F423TxU7)
-* QFN-48_6x6mm_ThermalVias - QFN-48 (6x6mm) packages (e.g AT32F413CxU7)
-* QFN-48_7x7mm_ThermalVias - QFN-48 (7x7mm) packages (e.g AT32WB415CCU7-7)
-* TSSOP-20_4.4x6.5mm - TSSOP-20 (4.4x6.5mm) packages (e.g AT32F425FxP7)
+* LQFP-32_7x7mm - LQFP-32 (7x7mm) packages
+* LQFP-48_7x7mm - LQFP-48 (7x7mm) packages
+* LQFP-64_7x7mm - LQFP-64 (7x7mm) packages
+* LQFP-64_10x10mm - LQFP-64 (10x10mm) packages
+* LQFP-100_14x14mm - LQFP-100 (14x14mm) packages
+* LQFP-144_20x20mm - LQFP-144 (20x20mm) packages
+* QFN-20_3x3mm_ThermalVias - QFN-20 (3x3mm) packages
+* QFN-28_4x4mm_ThermalVias - QFN-28 (4x4mm) packages
+* QFN-32_4x4mm_ThermalVias - QFN-32 (4x4mm) packages
+* QFN-32_5x5mm_ThermalVias - QFN-32 (5x5mm) packages
+* QFN-36_6x6mm_ThermalVias - QFN-36 (6x6mm) packages
+* QFN-48_6x6mm_ThermalVias - QFN-48 (6x6mm) packages
+* QFN-48_7x7mm_ThermalVias - QFN-48 (7x7mm) packages
+* TSSOP-20_4.4x6.5mm - TSSOP-20 (4.4x6.5mm) packages
 
 ## 3D Models
 All 3D models are created by KiCad
